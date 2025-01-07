@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm evenc</h1>
+<h1 align="center">こんにちは 👋、evencです</h1>
 
 <h3 align="center">A Passionate CS Student</h3>
 
