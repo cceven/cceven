@@ -12,7 +12,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=cceven&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
 
-  <img src="https://gitee.com/chen-houchao/images/raw/master/202511271849270.svg+xml;%20charset=utf-8" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cceven&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 
 </div>
 
@@ -23,6 +23,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,ubuntu,git,docker,vim" />
 </div>
+
 <br/>
 
 <h2 align="center">💖 About Me</h2>
@@ -31,7 +32,7 @@
 - 🌱 **Currently Learning:** Advanced Algorithms & Deep Learning.
 - 👨‍💻 **Daily Goal:** Make the GitHub commit graph **GREEN**!
 - 📝 **My Notes:** Check out my [DailyQuestion Repository](https://github.com/cceven/DailyQuestion).
-- 📫 **Contact:** [chenhc2004@qq.com]
+- 📫 **Contact:** [Your Email Here]
 
 <div align="center">
   <br/>
