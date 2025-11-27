@@ -1,18 +1,20 @@
+<h1 align="center">こんにちは 👋、evencです</h1>
+
+<h3 align="center">A Passionate CS Student 💻</h3>
+
 <div align="center">
 
-# Hi there, I'm evenc 👋
+  <img src="https://stats.justsong.cn/api/leetcode/?username=7ucid-mccarthylcs&cn=true" alt="LeetCode Stats" height="160" />
 
-### 🚀 Master's Student in Visual Odometry (VO) & SLAM
-
-<br>
-
-| 👨‍💻 **About Me & Tech Stack**                                 | 📊 **GitHub Stats**                                           |
-| :----------------------------------------------------------- | :----------------------------------------------------------- |
-| **Focus:** Computer Vision, Deep Learning<br>**Learning:** Graph Optimization, CUDA<br>**Goal:** 100+ LeetCode AC & Green GitHub<br><br>**My Weaponry:**<br>![C++](https://gitee.com/chen-houchao/images/raw/master/202511271846698.svg+xml;charset=utf-8) ![Python](https://gitee.com/chen-houchao/images/raw/master/202511271846402.svg+xml;charset=utf-8) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)<br>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | <img src="[https://stats.justsong.cn/api/leetcode/?username=7ucid-mccarthylcs&cn=true](https://stats.justsong.cn/api/leetcode/?username=7ucid-mccarthylcs&cn=true)" width="100%"> <br> <img src="[https://stats.justsong.cn/api/github/?username=cceven&hide_border=true](https://stats.justsong.cn/api/github/?username=cceven&hide_border=true)" width="100%"> |
-
-<br>
-
-[![Notes](https://gitee.com/chen-houchao/images/raw/master/202511271846831.svg+xml;charset=utf-8)]([https://github.com/cceven/DailyQuestion](https://github.com/cceven/DailyQuestion))
-[![Email](https://img.shields.io/badge/📫_Email-chenhc2004@qq.com-blue?style=for-the-badge)](mailto:chenhc2004@qq.com)
+  <img src="https://gitee.com/chen-houchao/images/raw/master/202511271847027.svg+xml;%20charset=utf-8" alt="GitHub Stats" height="160" />
 
 </div>
+
+<br/>
+
+<h2 align="center">💖 About Me:</h2>
+
+- 🌱 **Currently Learning:** Algorithms (Visual Odometry & LeetCode)
+- 👨‍💻 **Daily Goal:** Make the GitHub commit graph GREEN!
+- 📝 **My Algorithm Notes:** [DailyQuestion Repository](https://github.com/cceven/DailyQuestion)
+- 📫 **Contact:** [Your Email or Link]
