@@ -32,7 +32,7 @@
 - 🌱 **Currently Learning:** Advanced Algorithms & Deep Learning.
 - 👨‍💻 **Daily Goal:** Make the GitHub commit graph **GREEN**!
 - 📝 **My Notes:** Check out my [DailyQuestion Repository](https://github.com/cceven/DailyQuestion).
-- 📫 **Contact:** [Your Email Here]
+- 📫 **Contact:** [chenhc2004@qq.com]
 
 <div align="center">
   <br/>
